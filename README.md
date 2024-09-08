@@ -31,9 +31,9 @@ I'm thinking of a number between 1 and 100.
 You have 5 chances to guess the correct number.
 
 Please select the difficulty level:
-1. Easy (10 chances)
-2. Medium (5 chances)
-3. Hard (3 chances)
+1. Easy (5 chances)
+2. Medium (3 chances)
+3. Hard (1 chance)
 
 Enter your choice: 2
 
@@ -51,9 +51,22 @@ Incorrect! The number is less than 35.
 
 Enter your guess: 30
 Congratulations! You guessed the correct number in 4 attempts.
+It took you 12.34 seconds.
 ```
 
 ## Additional Features (To Be Added)
 
 - **Hint System**: Implement a hint system that provides clues to the user if they are stuck..
 - **Score**: Keep track of the user’s high score (i.e., the fewest number of attempts it took to guess the number under a specific difficulty level).
+
+## Challenge
+
+This project is part of the [roadmap.sh](https://roadmap.sh/projects/number-guessing-game) challenge. The goal is to create a fully functional number guessing game that adheres to the specifications and requirements listed above.
+
+
+## Acknowledgements
+
+- [roadmap.sh](https://roadmap.sh) for providing the challenge and inspiration.
+- [Python documentation](https://docs.python.org/3/) for the language reference.
+
+```
